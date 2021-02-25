@@ -1,0 +1,37 @@
+.ulnav{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #e1eeee;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+}   
+
+.linav{
+    float: right;
+    border-left: 5px solid #ccf2f4;
+}
+
+.anav{
+    display: block;
+    padding: 10px;
+    background-color: #e1eeee;
+    margin: 1px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.anav:hover{
+    background-color: #a4ebf3;
+}
+
+.anav:active{
+    background-color: #a4ebf3;
+}
+
+body{
+    background-color: #ccf2f4;
+}
